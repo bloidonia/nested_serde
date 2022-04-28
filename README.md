@@ -29,3 +29,5 @@ java.lang.ClassCastException: class [Ljava.lang.Object; cannot be cast to class 
     at io.micronaut.core.async.subscriber.CompletionAwareSubscriber.onNext(CompletionAwareSubscriber.java:56)
 ...
 ```
+
+Linked issue: https://github.com/micronaut-projects/micronaut-serialization/issues/196
