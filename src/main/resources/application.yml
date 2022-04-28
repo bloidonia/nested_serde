@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: nested_serde
+netty:
+  default:
+    allocator:
+      max-order: 3
